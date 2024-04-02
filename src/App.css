@@ -66,6 +66,7 @@ h1 {
 .card-right-right-side {
   display: grid;
   margin-left: 9px;
+  margin-right: 2rem;
   width: 45%;
   justify-content: space-between;
   gap: 0.4rem;

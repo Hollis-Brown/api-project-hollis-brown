@@ -8,15 +8,6 @@ export default function CurrentWeatherCard() {
           <div className="sideways-card-title rotate-180 p-2 [writing-mode:_vertical-lr]">
             <p className="text-center"></p>
           </div>
-
-          <div className="card-left-dog-image hidden sm:block sm:basis-56">
-            <img
-              alt="Labrador puppy dog"
-              src="https://jooinn.com/images/dog-67.jpg"
-              className="aspect-square h-full w-full object-cover"
-            />
-          </div>
-
           <div className="card-right">
             <div className="card-right-left-side flex flex-1 flex-col justify-between">
               <img

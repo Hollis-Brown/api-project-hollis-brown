@@ -4,9 +4,6 @@ export default function WeatherLookUp() {
       <h1 className="text-center">Weather Woofer Pro</h1>
       <div className="flex justify-center">
         <form className="flex items-center">
-          <div className="dog-paw-icon mr-3">
-            <img alt="Image of a paw print" src="./src/images/paw.svg" />
-          </div>
           <input
             type="text"
             className="mr-2 rounded-md border border-gray-300 px-3 py-2 focus:outline-none focus:ring focus:ring-blue-500 focus:ring-opacity-50"
@@ -18,9 +15,6 @@ export default function WeatherLookUp() {
           >
             Submit
           </button>
-          <div className="dog-paw-icon ml-3">
-            <img alt="Image of a paw print" src="./src/images/paw.svg" />
-          </div>
         </form>
       </div>
     </>
